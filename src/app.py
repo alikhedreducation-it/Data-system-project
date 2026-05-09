@@ -11,7 +11,7 @@ st.set_page_config(
 
 st.markdown("""
 # 🤖 AI-Enhanced Data Processing & Decision Support System
-### MSIT 5910 Capstone Project – Initial Prototype Demo
+### MSIT 5910 Capstone Project - Initial Prototype Demo
 This prototype demonstrates automated data upload, cleaning, filtering, visualization, KPI analysis, and AI-driven prediction.
 """)
 
